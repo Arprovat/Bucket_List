@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "Developer Job Opening",
+      "description": "We are looking for a skilled developer with expertise in JavaScript and React.",
+      "size": "0.7 md",
+      "tags": {
+        "isOpen": true,
+        "tagText": "Urgent"
+      }
+    },
+    {
+      "id": 2,
+      "title": "UI/UX Designer Position",
+      "description": "Join our design team to create user-friendly interfaces for web and mobile applications.",
+      "size": "1.2 md",
+      "tags": {
+        "isOpen": false,
+        "tagText": "Closed"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Data Scientist Role",
+      "description": "Seeking a data scientist with experience in machine learning and data analysis.",
+      "size": "1.5 md",
+      "tags": {
+        "isOpen": true,
+        "tagText": "New"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Marketing Specialist",
+      "description": "Help boost our marketing efforts by developing strategic campaigns and handling analytics.",
+      "size": "0.9 md",
+      "tags": {
+        "isOpen": false,
+        "tagText": "Expired"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Full Stack Developer",
+      "description": "A full-stack developer role focusing on back-end development using Node.js and front-end in React.",
+      "size": "0.6 md",
+      "tags": {
+        "isOpen": true,
+        "tagText": "Hot"
+      }
+    }
+  ]
+  
